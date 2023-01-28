@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<group>
+	<player_speed>300</player_speed>
+	<player_scale>1.1</player_scale>
+	<player_sprite>1</player_sprite>
+	<energy_level>-4</energy_level>
+	<show_player_heading>0</show_player_heading>
+	<agent_speed>100</agent_speed>
+	<agent_scale>0.5</agent_scale>
+	<agent_sprite>1</agent_sprite>
+	<agent_heading>0</agent_heading>
+	<agents_speed>300</agents_speed>
+	<agents_scale>0.6</agents_scale>
+	<agents_sprite>1</agents_sprite>
+	<agents_launch_time>1</agents_launch_time>
+	<agents_rate>1</agents_rate>
+	<agents_per_rate>1</agents_per_rate>
+	<agents_life>5</agents_life>
+</group>
