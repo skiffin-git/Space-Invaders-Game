@@ -1,4 +1,5 @@
 1) create new project in openframework with addon: GUI
+Download project generator from my drive: https://drive.google.com/file/d/1rXljIMNWSPay4YjwDIE_894n2kS3KtF5/view?usp=sharing
 2) replace all file in src
 3) open project and rightclick on src, choose add existing files
 4) go to src files, select all files from src and click add
