@@ -1,4 +1,4 @@
-TO START THE GAME:
+TO RUN THE PROJECT:
 
 1) Get Visual Studio 17 with C++
 2) Download project generator from my drive: 
