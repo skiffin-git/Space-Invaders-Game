@@ -4,7 +4,7 @@ TO START THE GAME:
 2) Download project generator from my drive: 
    https://drive.google.com/file/d/1rXljIMNWSPay4YjwDIE_894n2kS3KtF5/view?usp=sharing
 3) Generate new project with project generator and choose ofxGUI addon
-   and open through VS IDE
+   and open through Visual Studio
 4) Run template project to verify it runs
 5) Replace all file in src and bin/data folders
 6) In VS, rightclick on src folder and choose add existing files
