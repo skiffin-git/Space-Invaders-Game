@@ -1,6 +1,6 @@
 TO START THE GAME:
 
-1) Get Visual Studio for C++ (Project was buit on VS 2017 Community)
+1) Get Visual Studio 17 with C++
 2) Download project generator from my drive: 
    https://drive.google.com/file/d/1rXljIMNWSPay4YjwDIE_894n2kS3KtF5/view?usp=sharing
 3) Generate new project with project generator and choose ofxGUI addon
