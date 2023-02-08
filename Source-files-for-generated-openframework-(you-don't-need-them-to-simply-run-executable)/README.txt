@@ -13,4 +13,3 @@ TO RUN THE PROJECT:
    like in previous step
 8) Run with Release (borth x32 and x64 should work, and release should run faster)
    or choose x64 to Run project through Debug
-9) Play
