@@ -1,4 +1,4 @@
-#TO START THE GAME:
+# TO START THE GAME:
 
 1. Download this repositoriy
 2. Run 2D.exe
