@@ -14,21 +14,17 @@
 
 ![gif-2](gifs/gif-2-freeze.gif)
 
-## Battery (collectable to restore shield energy/health)
+## Battery and Bomb (collectable items)
 
-![gif-3](gifs/gif-3-battery.gif)
-
-## Bomb (collectable to destroy missiles)
-
-![gif-4](gifs/gif-4-bomb.gif)
-
-## Main Menu
-
-![screenshot-1](images/screenshot-1-main-menu.jpg)
+![gif-3](gifs/gif-3-items.gif)
 
 ## Test Mode
 
 ![gif-5](gifs/gif-5-test.gif)
+
+## Main Menu
+
+![screenshot-1](images/screenshot-1-main-menu.jpg)
 
 ## Other Features
 
