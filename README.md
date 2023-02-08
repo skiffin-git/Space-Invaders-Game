@@ -20,7 +20,7 @@
 
 ## Test Mode
 
-![gif-5](gifs/gif-5-test.gif)
+![gif-4](gifs/gif-4-test.gif)
 
 ## Main Menu
 
