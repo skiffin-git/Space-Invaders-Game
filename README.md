@@ -39,5 +39,5 @@
 * Return to Menu on M key
 * Test mode on T key
 * GUI for test on H key
-* Texsture removal on O key
+* Texsture removal on I key
 
